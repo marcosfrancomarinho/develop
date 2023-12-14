@@ -1,48 +1,6 @@
 {
     "filmes": [
-        {
-            "name": "Fragmentando",
-            "image": "https://br.web.img3.acsta.net/c_310_420/pictures/17/02/24/16/32/482058.jpg",
-            "duracao": 160,
-            "legendado": true,
-            "classificao": 16,
-            "categoria": [
-                "ficção cientifica",
-                "suspense"
-            ]
-        },
-        {
-            "name": "Vingadores-Ultimato",
-            "duracao": 220,
-            "image": "https://img.elo7.com.br/product/original/272273A/painel-2x1-vingadores-ultimato-lona.jpg",
-            "legendado": false,
-            "classificao": 14,
-            "categoria": [
-                "ficção cientifica",
-                "açao"
-            ]
-        },
-        {
-            "name": "Freira II",
-            "duracao": 120,
-            "image": "https://shoppingjardinsonline.com.br/shoppingjardinsonline/2023/09/NUN2_QUAD_MAIN_BR-scaled-large.jpg",
-            "legendado": true,
-            "classificao": 18,
-            "categoria": [
-                "terror",
-                "suspense"
-            ]
-        },
-        {
-            "name": "Barbie o filme",
-            "duracao": 155,
-            "image": "https://cdn.borainvestir.b3.com.br/2023/07/19191108/barbie.jpg.webp",
-            "legendado": false,
-            "classificao": 10,
-            "categoria": [
-                "infantil",
-                "animação"
-            ]
-        }
+        
+        
     ]
 }
